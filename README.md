@@ -1,6 +1,8 @@
 # Prediction of Product Sales
+### This project is a data cleaning, wrangling, analysis and ML Modeling for a prediction of product sales
 #### By: Mohammad Abu Ayyash (May 2024)
-### This project is a data cleaning, wrangling, and analysis for a prediction of product sales
+#### The goal of this project is to help the retailer understand the properties of products and outlets that play crucial roles in predicting sales
+
 #### In this summary you'll find :
 - a **general** distribution of data in the numerical columns of this data frame
 ![1](https://github.com/achelousace/Prediction-of-Product/assets/168934903/7ca75718-f700-4505-bfe2-8ae839502341)
